@@ -28,8 +28,11 @@ Please include important requirements in the local readme files.
 Currently nothing more than:
 
 TwinCAT 4024.54
+
 TE1400 2.8.2.0
+
 Matlab R2019 or later (Im using R2022b)
+
 Simulink Coder
 
 
